@@ -20,8 +20,12 @@ Ce projet est une application Android qui permet d'afficher une galerie de vedet
 ## Installation
 Cloner le projet : Clonez ce dépôt Git sur votre machine :
 
+git clone https://github.com/elmahjoubisouka/Mini_Projet_Stars.git
 
-##Démonstration
+## Démonstration
+
+https://github.com/user-attachments/assets/463e5a84-716c-4f4a-b42d-f0c0053ecdc3
+
 
 
 
